@@ -13,12 +13,23 @@
 }
 body{
     background-image: url("fondos.jpg");
-    
-
 }
+
+.parrafo{
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+}
+
 .titulo{
+    padding: 15px;
 text-align: center;
 font-size: 50px;
 color: black;
 
+}
+
+.img{
+width: 600px;
+height: 600px;
 }
